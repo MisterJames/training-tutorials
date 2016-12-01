@@ -8,6 +8,16 @@ Download a ZIP containing this tutorial's sample files:
 
 See the [Issue](https://github.com/dotnet/training-tutorials/issues/64) to claim this lesson and/or view what should be included in it.
 
+## topics
+Show setting up xUnit
+Show how to unit test a business service created in last lesson.
+Show how to unit test a controller action (if appropriate)
+Show how to configure a TestHost for integration testing
+Show how to write integration tests using TestHost
+
+https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing
+
+
 ## First Header
 
 Start the lesson here.
